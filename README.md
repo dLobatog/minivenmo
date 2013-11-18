@@ -26,6 +26,8 @@ Use the default secret for testing or find a way to set up your own.
 Run bin/minivenmo --help to see all possible options.
 
 `bin/minivenmo` works with regular commands as a command-line program.
+
 `bin/minivenmo shell` brings up a minishell that works with Minivenmo commands.
+
 `bin/minivenmo --file inputfile` runs all commands in inputfile in order.
 You can find a file example 'testinput' at spec/fixtures/testinput.
