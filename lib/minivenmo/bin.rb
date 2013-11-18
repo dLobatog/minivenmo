@@ -1,4 +1,5 @@
 require 'optparse'
+require 'readline'
 
 class MiniVenmo::Bin
   def initialize(args)
