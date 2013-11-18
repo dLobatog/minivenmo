@@ -1,0 +1,5 @@
+source 'https://rubygems.org'
+gem 'rspec'
+gem 'activerecord'
+gem 'database_cleaner'
+gem 'luhnacy'

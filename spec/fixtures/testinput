@@ -1,0 +1,9 @@
+user user1
+user user2
+add user1 5380857077
+add user2 5052772661
+pay user1 user2 $50.3 because this is a test
+feed user1
+feed user2
+balance user1
+balance user2
